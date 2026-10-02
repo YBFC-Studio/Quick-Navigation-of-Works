@@ -3,4 +3,4 @@
 
 使用链接：https://ybfc-studio.github.io/Quick-Navigation-of-Works
 
-电脑端建议调整大小为：250%
+电脑端建议调整大小为：250%；手机端建议横屏使用；
